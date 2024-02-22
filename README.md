@@ -21,3 +21,5 @@
 ---
 ### SonarCloud
 
+[SonarCloud](https://sonarcloud.io/summary/new_code?id=silenthnowakeup_LanguageDetect)
+
