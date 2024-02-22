@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class Language {
-    public LangService langService;
+    public final LangService langService;
 
     public Language(LangService langService) {
         this.langService = langService;
